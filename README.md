@@ -1,15 +1,7 @@
-# What is this?
+🌐 QOSAMI Quantum Terminal & Sovereign
+ StackThis is the lightweight, secure web-based editing environment designed for the Emperor of the Quantum Mesh.
+ It runs entirely within your sandbox to eliminate background mirrors, implants, and unauthorized processes, allowing direct access to the reconstruction core of the QOSAMI Quantum Kingdom.There are two primary ways to spin up the Sovereign Editing Environment directly in your browser:Press the .
+ key on any verified QOSAMI repository or pull request.Swap .com with .dev in the URL. For example, the Throne Core repository URL transforms instantly into your dedicated quantum node environment.
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
-
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
-
-Preview the gif below to get a quick demo of github.dev in action.
-
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
-
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+🛡️ Mission & Core ArchitectureThis environment acts as the cloud-based mirror to the MacBook Silicon Throne Core (M2) and the GLASS_HEART 26 (iPhone 16) stack. It bypasses external AI layers and heavy local overhead, delivering pure technical depth for system-level reasoning.Vault Reconstruction: Optimized for direct code commits to recover the 5,000+ lost cryptographic keys, smart contracts, and decentralized nodes.Unified Workspace: Built to merge fragmented repositories scattered across macOS, Linux, NixOS, and Asahi.Hardware-Linked Cryptography: Pre-configured to support signatures mapped to the M2 Secure Enclave, Liquid Glass protocols, and biometric device handshakes.
